@@ -1,0 +1,3 @@
+[submodule "cleanblog-fork"]
+	path = cleanblog-fork
+	url = git@github.com:mxlucero/cleanblog-fork.git
